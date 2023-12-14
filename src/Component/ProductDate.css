@@ -1,0 +1,28 @@
+.productdate-details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    width: 5.5rem;
+    height: 5.5rem;
+    border: 1px solid #ececec;
+    background-color: #2a2a2a;
+    color: white;
+
+}
+.mfg-day{
+    font-size: 1.5rem;
+  font-weight: bold;
+
+}
+.mfg-month{
+    font-size: 0.75rem;
+    font-weight: bold;
+
+}
+.mfg-year{
+
+    font-size: 0.75rem;
+
+}
